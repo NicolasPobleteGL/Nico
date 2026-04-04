@@ -37,12 +37,10 @@
             "id": "8a1873dbf7d479b5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Listas Enlazadas Java.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Listas Enlazadas Java.excalidraw"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ],
@@ -209,14 +207,15 @@
   },
   "active": "8a1873dbf7d479b5",
   "lastOpenFiles": [
-    "Excalidraw/Lo que Joi Tiene Ahora.excalidraw.md",
+    "Mejoras MCP Excalidraw.md",
+    "Proyectos/Propuesta de optimizacion y mantenimiento Servidor.md",
+    "Excalidraw/Netflix Architecture.excalidraw.md",
+    "Excalidraw/Mejoras Openclaw.excalidraw.md",
+    "Proyectos",
+    "Arquitectura Hexagonal Crypto Exchange - Especificacion Completa.md",
     "Excalidraw/Listas Enlazadas Java.excalidraw.md",
     "auto_push.sh",
-    "Excalidraw/Netflix Architecture.excalidraw.md",
     "Excalidraw/Arquitectura Hexagonal.excalidraw.md",
-    "Para Analizar - Mejoras MCP Excalidraw.md",
-    "Propuesta - Optimizacion y Mantenimiento Servidor.md",
-    "Arquitectura Hexagonal Crypto Exchange - Especificacion Completa.md",
     "Excalidraw/Drawing 2026-04-04 04.17.42.excalidraw.md",
     "Excalidraw/Drawing 2026-04-04 04.08.09.excalidraw.md",
     "Excalidraw/Ramos Universidad.excalidraw.md",

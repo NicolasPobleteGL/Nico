@@ -1,4 +1,5 @@
 # Ideas para Mejorar MCP de Obsidian / Excalidraw
+#trabajo 
 
 Fecha: 2026-04-03
 
