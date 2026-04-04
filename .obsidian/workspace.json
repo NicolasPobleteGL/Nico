@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "806389f86877ed95",
+    "type": "split",
+    "children": [
+      {
+        "id": "524510b0fe4a9f40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5826ad801507858d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Lo que Joi Tiene Ahora.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Lo que Joi Tiene Ahora.excalidraw"
+            }
+          },
+          {
+            "id": "f912a3419921e3da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Para Analizar - Mejoras MCP Excalidraw.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Para Analizar - Mejoras MCP Excalidraw"
+            }
+          },
+          {
+            "id": "8a1873dbf7d479b5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Lo que Joi Tiene Ahora.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Lo que Joi Tiene Ahora.excalidraw"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96256bae0da7f5d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "acaa144959818d93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01d003012bf97c61",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "9f200b2300c1c4bb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "2d0e770c2cc7e904",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.5041847229004
+  },
+  "right": {
+    "id": "6c11b51bd68be778",
+    "type": "split",
+    "children": [
+      {
+        "id": "a59aa57612f74841",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16a7be0f9a3b1224",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "456c72af7e1d8472",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "d736a8d00185aebd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "c755778709dcf0b1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "2e7db66d72a9756b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "8a1873dbf7d479b5",
+  "lastOpenFiles": [
+    "Excalidraw/Netflix Architecture.excalidraw.md",
+    "Excalidraw/Lo que Joi Tiene Ahora.excalidraw.md",
+    "Excalidraw/Arquitectura Hexagonal.excalidraw.md",
+    "Para Analizar - Mejoras MCP Excalidraw.md",
+    "Propuesta - Optimizacion y Mantenimiento Servidor.md",
+    "Arquitectura Hexagonal Crypto Exchange - Especificacion Completa.md",
+    "Excalidraw/Drawing 2026-04-04 04.17.42.excalidraw.md",
+    "Excalidraw/Drawing 2026-04-04 04.08.09.excalidraw.md",
+    "Excalidraw/Ramos Universidad.excalidraw.md",
+    "Excalidraw/Drawing 2026-04-04 04.06.49.excalidraw.md",
+    "Excalidraw/Drawing 2026-04-04 04.06.24.excalidraw.md",
+    "Excalidraw/Drawing 2026-04-04 04.06.03.excalidraw.md",
+    "Excalidraw/Drawing 2026-04-04 04.03.23.excalidraw.md",
+    "Excalidraw/Drawing 2026-04-04 04.03.20.excalidraw.md",
+    "Sin título.md",
+    "Excalidraw/Como Nico usa a Joi.excalidraw.md",
+    "Excalidraw/Arquitectura Hexagonal Crypto Exchange COMPLETA.excalidraw.md",
+    "Excalidraw/Arquitectura Hexagonal Crypto Exchange.excalidraw.md",
+    "Excalidraw/Cara feliz.excalidraw.md",
+    "Sin título.canvas",
+    "Excalidraw/Drawing 2026-04-03 01.52.18.excalidraw.md",
+    "Excalidraw",
+    "hol.md",
+    "2026-04-03.md",
+    "Sin título.base",
+    "Sin título 1.base",
+    "Bienvenido.md"
+  ]
+}
