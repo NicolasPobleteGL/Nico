@@ -1,37 +1,41 @@
 #!/bin/bash
 
-# Configuración: carpeta a vigilar
+# Configuración
 TARGET_DIR="$HOME/Nico"
 BRANCH="main"
+WAIT_TIME=120  # ⏱️ 2 minutos (120 segundos) de calma antes del push
 
-echo "🔍 Runner activado: Vigilando cambios internos en $TARGET_DIR..."
+echo "🕵️ Runner inteligente (2 min de espera) activo en $TARGET_DIR"
 
-# Usamos inotifywait para detectar cuando un archivo se MODIFICA por dentro (-e modify)
-# Excluimos .git y archivos temporales de Obsidian para no saturar GitHub
+# Monitorizamos cambios reales en archivos
 inotifywait -m -r -e modify,create,delete "$TARGET_DIR" --exclude "\.git/|\.obsidian/workspace\.json" |
     while read -r path action file; do
         
-        # Ignorar archivos basura de sistema o temporales
-        if [[ "$file" == *~ ]] || [[ "$file" == *.swp ]] || [[ "$file" == "4913" ]]; then
-            continue
+        # Ignorar basura de sistema o temporales
+        [[ "$file" == *~ || "$file" == *.swp || "$file" == "4913" ]] && continue
+
+        echo "📝 Cambio detectado en: $file. Reiniciando espera de 2 minutos..."
+
+        # Matamos cualquier espera previa para reiniciar el cronómetro
+        if [ -f /tmp/git_sync_pid ]; then
+            pkill -P $(cat /tmp/git_sync_pid) 2>/dev/null
+            kill $(cat /tmp/git_sync_pid) 2>/dev/null
         fi
 
-        echo "📝 Cambio detectado en: $file"
+        # Proceso de fondo: espera los 120s y luego sube
+        (
+            sleep $WAIT_TIME
+            cd "$TARGET_DIR" || exit
+            
+            git add .
+            # Solo hacemos push si hay algo nuevo que commitear
+            if git commit -m "Auto-sync: Avances acumulados [$(date +'%H:%M')]"; then
+                git push origin $BRANCH
+                echo "🚀 [$(date +'%H:%M')] ¡Sincronización de 2 minutos completada!"
+            fi
+            rm /tmp/git_sync_pid
+        ) & 
         
-        # Esperar 2 segundos por si estás guardando varios archivos a la vez
-        sleep 2
-        
-        cd "$TARGET_DIR" || exit
-        
-        # Git añade los cambios internos automáticamente
-        git add .
-        
-        # Intentar hacer commit y subir
-        if git commit -m "Auto-sync: $file actualizado [$(date +'%H:%M')]"; then
-            git push origin $BRANCH
-            echo "🚀 ¡Sincronizado con GitHub!"
-        else
-            echo "ℹ️ Cambio menor detectado, no requiere push."
-        fi
-        echo "------------------------------------------"
+        # Guardamos el PID para controlarlo
+        echo $! > /tmp/git_sync_pid
     done
