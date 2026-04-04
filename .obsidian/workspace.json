@@ -39,10 +39,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Lo que Joi Tiene Ahora.excalidraw.md"
+                "file": "Excalidraw/Listas Enlazadas Java.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Lo que Joi Tiene Ahora.excalidraw"
+              "title": "Listas Enlazadas Java.excalidraw"
             }
           }
         ],
@@ -207,11 +207,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "01d003012bf97c61",
+  "active": "8a1873dbf7d479b5",
   "lastOpenFiles": [
+    "Excalidraw/Lo que Joi Tiene Ahora.excalidraw.md",
+    "Excalidraw/Listas Enlazadas Java.excalidraw.md",
     "auto_push.sh",
     "Excalidraw/Netflix Architecture.excalidraw.md",
-    "Excalidraw/Lo que Joi Tiene Ahora.excalidraw.md",
     "Excalidraw/Arquitectura Hexagonal.excalidraw.md",
     "Para Analizar - Mejoras MCP Excalidraw.md",
     "Propuesta - Optimizacion y Mantenimiento Servidor.md",
