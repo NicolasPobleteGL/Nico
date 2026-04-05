@@ -37,10 +37,12 @@
             "id": "8a1873dbf7d479b5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Mejoras Openclaw.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Mejoras Openclaw.excalidraw"
             }
           }
         ],
