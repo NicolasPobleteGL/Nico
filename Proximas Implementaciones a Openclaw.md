@@ -58,6 +58,12 @@ Diagnosticar errores del sistema automáticamente y sugerir soluciones.
 - Priorizar utilidad sobre complejidad
 
 
+## Cuestionamientos
+Como hago para no ignorar la rutina que me armo usando IA y en verdad ser mas productivo?
+
+
+
+
 
 
 [[Mejoras MCP Excalidraw]]

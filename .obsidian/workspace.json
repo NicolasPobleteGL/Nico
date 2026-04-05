@@ -51,12 +51,10 @@
             "id": "b6c3d5c51af71b7c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Netflix Architecture.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Netflix Architecture.excalidraw"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ],
@@ -223,15 +221,15 @@
   },
   "active": "b6c3d5c51af71b7c",
   "lastOpenFiles": [
+    "Mejoras MCP Excalidraw.md",
+    "Proximas Implementaciones a Openclaw.md",
+    "Excalidraw/Netflix Architecture.excalidraw.md",
     "Excalidraw/Mejoras Openclaw.excalidraw.md",
     "Excalidraw/Listas Enlazadas Java.excalidraw.md",
     "Estado Actual Openclaw.md",
-    "Proximas Implementaciones a Openclaw.md",
-    "Excalidraw/Netflix Architecture.excalidraw.md",
     "pullear.md",
     "sync_log.txt",
     "Arquitectura Hexagonal Crypto Exchange - Especificacion Completa.md",
-    "Mejoras MCP Excalidraw.md",
     "Excalidraw/Mejores OpenClaw.md",
     "Proyectos/Propuesta de optimizacion y mantenimiento Servidor.md",
     "Lo que Joi Tiene Ahora.md",
