@@ -286,3 +286,6 @@ Ya está actualizado.
 Desde https://github.com/NicolasPobleteGL/Nico
  * branch            main       -> FETCH_HEAD
 Ya está actualizado.
+Desde https://github.com/NicolasPobleteGL/Nico
+ * branch            main       -> FETCH_HEAD
+Ya está actualizado.
