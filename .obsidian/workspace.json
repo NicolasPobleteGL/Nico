@@ -15,8 +15,8 @@
               "state": {
                 "file": "Excalidraw/Lo que Joi Tiene Ahora.excalidraw.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Lo que Joi Tiene Ahora.excalidraw"
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           },
           {
@@ -37,18 +37,38 @@
             "id": "8a1873dbf7d479b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "pullear.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Netflix Architecture.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "pullear"
+              "icon": "excalidraw-icon",
+              "title": "Netflix Architecture.excalidraw"
+            }
+          },
+          {
+            "id": "dee2f93d962fc0ca",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Estudio Programacion/odoo module arq.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "odoo module arq"
+            }
+          },
+          {
+            "id": "db9439b1b22cdbb5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -209,19 +229,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8a1873dbf7d479b5",
+  "active": "db9439b1b22cdbb5",
   "lastOpenFiles": [
+    "Proyectos/Arquitectura Hexagonal Crypto Exchange - Especificacion Completa.md",
+    "Proyectos/Propuesta de optimizacion y mantenimiento Servidor.md",
+    "Estudio Programacion/Funcionamiento de odoo module.excalidraw",
+    "Estudio Programacion/Listas Enlazadas Java.excalidraw.md",
+    "Estudio Programacion/odoo module arq.md",
+    "Estudio Programacion/Netflix Architecture.excalidraw.md",
+    "Excalidraw/Mejoras Openclaw.excalidraw.md",
+    "Estudio Programacion",
+    "Excalidraw/Sin título.excalidraw.md",
+    "Excalidraw/trabajo arq-2.excalidraw.md",
+    "Excalidraw/trabajo arq-2.excalidraw.mc",
+    "Excalidraw/trabajo arq-2.excalidraw",
+    "Estado Actual Openclaw.md",
     "Mejoras MCP Excalidraw.md",
     "Proximas Implementaciones a Openclaw.md",
-    "Excalidraw/Netflix Architecture.excalidraw.md",
-    "Excalidraw/Mejoras Openclaw.excalidraw.md",
-    "Excalidraw/Listas Enlazadas Java.excalidraw.md",
-    "Estado Actual Openclaw.md",
-    "pullear.md",
     "sync_log.txt",
-    "Arquitectura Hexagonal Crypto Exchange - Especificacion Completa.md",
+    "pullear.md",
     "Excalidraw/Mejores OpenClaw.md",
-    "Proyectos/Propuesta de optimizacion y mantenimiento Servidor.md",
     "Lo que Joi Tiene Ahora.md",
     "Proyectos",
     "auto_push.sh",
@@ -236,12 +263,8 @@
     "Excalidraw/Drawing 2026-04-04 04.03.20.excalidraw.md",
     "Excalidraw/Como Nico usa a Joi.excalidraw.md",
     "Excalidraw/Arquitectura Hexagonal Crypto Exchange COMPLETA.excalidraw.md",
-    "Excalidraw/Arquitectura Hexagonal Crypto Exchange.excalidraw.md",
-    "Excalidraw/Cara feliz.excalidraw.md",
     "Sin título.canvas",
-    "Excalidraw/Drawing 2026-04-03 01.52.18.excalidraw.md",
     "Excalidraw",
-    "hol.md",
     "Sin título.base",
     "Sin título 1.base"
   ]
