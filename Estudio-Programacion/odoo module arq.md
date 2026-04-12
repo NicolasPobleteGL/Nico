@@ -46,7 +46,7 @@ Mapeo ORM ^heQPKP9w
 
 [[Listas Enlazadas Java.excalidraw]] ^h0X5D7Bx
 
-[[Netflix Architecture.excalidraw]]] ^IXlPxH59
+[[Netflix Architecture.excalidraw]] ^IXlPxH59
 
 %%
 ## Drawing

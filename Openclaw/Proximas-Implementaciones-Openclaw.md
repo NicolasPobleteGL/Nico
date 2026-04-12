@@ -66,6 +66,6 @@ Como hago para no ignorar la rutina que me armo usando IA y en verdad ser mas pr
 
 
 
-[[Mejoras MCP Excalidraw]]
-[[Mejoras MCP Excalidraw]]
-[[Estado Actual Openclaw]]
+[[Mejoras-MCP-Excalidraw]]
+[[Mejoras-MCP-Excalidraw]]
+[[Estado-Actual-Openclaw]]

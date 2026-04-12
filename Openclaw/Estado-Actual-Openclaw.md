@@ -135,10 +135,19 @@ apt-get update && apt-get install -y x11-apps xdotool imagemagick scrot
 
 ## Archivos Relacionados
 
-- [[Mejoras MCP Excalidraw]]
+- [[Mejoras-MCP-Excalidraw]]
 - `memory/excalidraw-workflow.md` — Guia para crear diagramas
 - `memory/2026-04-04.md` — Log de la sesion
 
 ---
 
 *Este documento se actualiza automaticamente segun se implementan nuevas capacidades.*
+
+Skills a implementar:
+-continuity: analize todo el obsidian en segundo plano.
+-**beeminder**: te avisa cuando no progresas
+-gotify: notificacion tras terminar tarea
+goal-setter-smart: metodologia smart
+
+
+Mejorar el openclaw-brain

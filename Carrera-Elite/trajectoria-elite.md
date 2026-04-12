@@ -1,0 +1,2 @@
+Para poder dirigirnos en buen camino con la ia, es necesario desarrollar metodologias de progreso semanal como SCRUM, fijandose metas tangibles y continuas,
+Reunion de progreso con la IA de manera organizada... No tener cosas que no use nunca o perderme en el oasis de .md en obsidian,

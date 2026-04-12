@@ -75,7 +75,7 @@ Respuestas ^4OBa2gBz
 
 Lo que Joi Tiene Ahora ^title
 
-[[Mejoras MCP Excalidraw]] ^TPLrvB0i
+[[Mejoras-MCP-Excalidraw]] ^TPLrvB0i
 
 Lo que Dev Tiene Ahora ^title
 

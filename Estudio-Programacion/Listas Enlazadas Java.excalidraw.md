@@ -103,11 +103,11 @@ Menos ^r3s
 
 Más ^r3d
 
-[[odoo module arq]]] ^aWHIvU1q
+[[odoo module arq]] ^aWHIvU1q
 
-[[Funcionamiento de odoo module.excalidraw]]] ^rruLKfC8
+[[Funcionamiento de odoo module.excalidraw]] ^rruLKfC8
 
-[[Netflix Architecture.excalidraw]]] ^FNZCNxvT
+[[Netflix Architecture.excalidraw]] ^FNZCNxvT
 
 %%
 ## Drawing
